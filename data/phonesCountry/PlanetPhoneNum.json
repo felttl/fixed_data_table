@@ -1,0 +1,95 @@
+{
+    "43":{"all":"Austria","2":"AT","3":"AUT","territory":"CET"},
+    "32":{"all":"Belgium","2":"BE","3":"BEL","territory":"CET"},
+    "359":{"all":"Bulgaria","2":"BG","3":"BGR"},
+    "385":{"all":"Croatia","2":"HR","3":"HRV","territory":"CET"},
+    "357":{"all":"Cyprus","2":"CY","3":"CYP"},
+    "420":{"all":"Czech","2":"CZ","3":"CZE","territory":"CET"},
+    "45":{"all":"Denmark","2":"DK","3":"DNK","territory":"CET"},
+    "372":{"all":"Estonia","2":"EE","3":"EST"},
+    "358":{"all":"Finland","2":"FI","3":"FIN"},
+    "33":{"all":"france","2":"FR","3":"FRA","territory":"CET"},
+    "49":{"all":"Germany","2":"DE","3":"DEU","territory":"CET"},
+    "30":{"all":"Greece","2":"GR","3":"GRC"},
+    "36":{"all":"Hungary","2":"HU","3":"HUN","territory":"CET"},
+    "353":{"all":"Ireland","2":"IE","3":"IRL"},
+    "39":{"all":"Italy","2":"IT","3":"ITA","territory":"CET"},
+    "371":{"all":"Latvia","2":"LV","3":"LVA"},
+    "370":{"all":"Lithuania","2":"LT","3":"LTU"},
+    "352":{"all":"Luxembourg","2":"LU","3":"LUX","territory":"CET"},
+    "356":{"all":"Malta","2":"MT","3":"MLT","territory":"CET"},
+    "31":{"all":"Netherlands","2":"NL","3":"NLD","territory":"CET"},
+    "48":{"all":"Poland","2":"PL","3":"POL","territory":"CET"},
+    "351":{"all":"Portugal","2":"PT","3":"PRT"},
+    "40":{"all":"Romania","2":"RO","3":"ROU"},
+    "421":{"all":"Slovakia","2":"SK","3":"SVK","territory":"CET"},
+    "386":{"all":"Slovenia","2":"SI","3":"SVN","territory":"CET"},
+    "34":{"all":"Spain","2":"ES","3":"ESP","territory":"CET"},
+    "46":{"all":"Sweden","2":"SE","3":"SWE","territory":"CET"},
+
+    "355":{"all":"Albania","2":"AL","3":"ALB","territory":"CET"},
+    "376":{"all":"Andorra","2":"AD","3":"AND","territory":"CET"},
+    "374":{"all":"Armenia","2":"AM","3":"ARM"},
+    "375":{"all":"Belarus","2":"BY","3":"BLR"},
+    "387":{"all":"Bosnia and Herzegovina","2":"BA","3":"BIH","territory":"CET"},
+    "298":{"all":"Faroe Islands","2":"FO","3":"FRO"},
+    "995":{"all":"Georgia","2":"GE","3":"GEO"},
+    "350":{"all":"Gibraltar","2":"GI","3":"GIB"},
+    "354":{"all":"Iceland","2":"IS","3":"ISL"},
+    "44-1624":{"all":"Isle of Man","2":"IM","3":"IMN"},
+    "383":{"all":"Kosovo","2":"XK","3":"XKX","territory":"CET"},
+    "423":{"all":"Liechtenstein","2":"LI","3":"LIE","territory":"CET"},
+    "389":{"all":"Macedonia","2":"MK","3":"MKD","territory":"CET"},
+    "373":{"all":"Moldova","2":"MD","3":"MDA"},
+    "377":{"all":"Monaco","2":"MC","3":"MCO","territory":"CET"},
+    "382":{"all":"Montenegr","2":"ME","3":"MNE","territory":"CET"},
+    "47":{"all":"Norway","2":"NO","3":"NOR","territory":"CET"},
+    "7":{"all":"Russian Federation","2":"RU","3":"RUS"},
+    "378":{"all":"San Marino","2":"SM","3":"SMR","territory":"CET"},
+    "381":{"all":"Serbia","2":"RS","3":"SRB","territory":"CET"},
+    "41":{"all":"Switzerland","2":"CH","3":"CHE","territory":"CET"},
+    "90":{"all":"Turkey","2":"TR","3":"TUR"},
+    "380":{"all":"Ukraine","2":"UA","3":"UKR"},
+    "44":{"all":"United Kingdom","2":"GB","3":"GBR"},
+
+    "379":{"all":"Holy see","territory":"CET"}
+
+
+
+
+
+}
+
+
+
+
+Albania
+Andorra
+Austria
+Belgium
+Bosnia and Herzegovina
+Croatia
+Czech Republic
+Denmark
+France
+Germany
+Hungary
+Italy
+Kosovo
+Liechtenstein
+Luxembourg
+Malta
+Monaco
+Montenegro
+Netherlands
+North Macedonia
+Norway
+Poland
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain (except the Canary Islands)
+Sweden
+Switzerland
+and Vatican City. 
