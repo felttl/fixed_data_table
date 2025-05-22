@@ -3,6 +3,15 @@
 structure all "fixed" data (including: country international prefix number, timezone cycles, etc...)
 
 
+all the required data for simple application 
+(global uses cases) with Json format. (most of the time)
+
+do not hesitate if you are using datasets in this repository
+and then you see incoherent data of problems. You can ask to edit
+files and/or participate to this repo.
+
+> repo objective : centralize information and sources of them
+
 ###### alphabetical order 
 
 
